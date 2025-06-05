@@ -1,0 +1,15 @@
+# Ignore system files
+.DS_Store
+._*
+Thumbs.db
+
+# Ignore MATLAB autosaves and temp files
+*.asv
+*.m~
+*.mlx~
+*.fig~
+
+# Ignore hidden folders from MATLAB or OS
+.idea/
+.vscode/
+__MACOSX/
